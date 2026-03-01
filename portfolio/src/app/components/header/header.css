@@ -1,0 +1,13 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding: 15px;
+  background: #1e293b;
+  color: white;
+}
+
+nav a {
+  margin: 10px;
+  color: white;
+  text-decoration: none;
+}
